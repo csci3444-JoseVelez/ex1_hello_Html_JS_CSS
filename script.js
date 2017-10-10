@@ -51,6 +51,7 @@ function demoConsoleFunc() {
     console.error('myGlobalFunc_A console.error');
     console.warn('myGlobalFunc_A console.warn');
     console.info('myGlobalFunc_A console.info'); // NOTE_3 basically equivalent to console.log
+    console.log('myGlobalFunc_A console.log');
 }
 
 function demoConsoleFuncInner(inp1) {
